@@ -1,4 +1,5 @@
 # betdata
 Recopilador de información para apuestas deportivas.
 
-Mlk gaylord
+Posible nombre futuro:
+  *El BETómetro*
